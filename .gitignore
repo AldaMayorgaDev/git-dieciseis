@@ -1,1 +1,17 @@
+#Esto es un comentario
+
+#Archivos ignorados
 confidencial.txt
+
+
+#Carpetas ignoradas, Se agrega /    nombrecarpeta/
+carpeta/
+
+
+#Patterns o patrones con expresiones regulares
+
+#Para ignorar todos los archivos que terminen en .css sea hace con *.css
+#Para ignorar todos los archivos que empiecen con ciertos caracteres se hace con caracteres-*
+#Para ignorar todos los arcihvos sin importar su extencion y se llamen ignorame se hace ignorame.*
+
+
